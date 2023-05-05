@@ -25,6 +25,13 @@ function App() {
     });
   }, []);
 
+  // useEffect(() => {
+  //   generateregWordSet().then((words) => {
+  //     setRegWordSet(words.regWordSet);
+  //     setCorrectWord(words.todaysWord);
+  //   });
+  // }, []);
+
   const onEnter = () => {
     if (currAttempt.letter !== 5) return;
 
@@ -71,7 +78,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h1>Wordle</h1>
+        <h1>Newfoundlandle</h1>
       </nav>
       <AppContext.Provider
         value={{

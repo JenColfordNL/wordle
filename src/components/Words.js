@@ -1,4 +1,6 @@
-import wordBank from "./wordle-bank.txt";
+//import wordBank from "./wordle-bank.txt";
+// import regWords from "./regular-wordle-bank.txt";
+import wordBank from "./combined.txt";
 
 export const boardDefault = [
   ["", "", "", "", ""],
