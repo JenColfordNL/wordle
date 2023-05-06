@@ -1,21 +1,14 @@
-ducky
-saucy
-trout
-amper
-angish
-arsed
-awful
-barge
-barmp
-batch
-beach
-bides
-blank
-blare
-blast
-block
-blood
-blush
+arsed - ragged arsed: tattered disreputable
+awful - Remarkable, exceptional
+barge - A large boat serving as an ancillary craft in the fishery from schooners
+batch - A qauntity of anything coming at a time
+beach - A level stretch of sea-worn rocks along the foreshore that was convient to use for drying and salting fish
+blank - An unsuccessful fishing season
+blare - Of a cow, moose, etc, to low or bellow
+blast - A quick burning fire fed by dried twigs or boughs
+block - In lumbering,the area to be logged or cut
+blood - A portion of cod flesh that adheres to the bone
+blush - 
 bogie
 brazil
 bride
@@ -200,26 +193,6 @@ whale
 windy
 yary
 young
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 aback
 abase
 abate
