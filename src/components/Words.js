@@ -14,7 +14,7 @@ export const boardDefault = [
 export const generateWordSet = async () => {
   let wordSet;
   let todaysWord;
-  let nlWordleCount = 9;
+  let nlWordleCount = 174;
   await fetch(wordBank)
     .then((response) => response.text())
     .then((result) => {
