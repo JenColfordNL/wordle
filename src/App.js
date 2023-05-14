@@ -25,13 +25,6 @@ function App() {
     });
   }, []);
 
-  // useEffect(() => {
-  //   generateregWordSet().then((words) => {
-  //     setRegWordSet(words.regWordSet);
-  //     setCorrectWord(words.todaysWord);
-  //   });
-  // }, []);
-
   const onEnter = () => {
     if (currAttempt.letter !== 5) return;
 
