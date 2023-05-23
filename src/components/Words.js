@@ -12,16 +12,27 @@ export const boardDefault = [
 ];
 
 export const generateWordSet = async () => {
+  console.log("Generate wordset call");
   let wordSet;
+  let wordArr;
   let todaysWord;
+  let todaysDef;
   let nlWordleCount = 174;
-  // let nlWordleCount = 1;
+
   await fetch(wordBank)
     .then((response) => response.text())
     .then((result) => {
-      const wordArr = result.split("\n");
-      todaysWord = wordArr[Math.floor(Math.random() * nlWordleCount)];
-      wordSet = new Set(wordArr);
+      wordArr = result.split("\n");
+      let tempArr = wordArr.map((r) => r.slice(0, 5));
+      let idSelected = Math.floor(Math.random() * nlWordleCount);
+      todaysWord = tempArr[idSelected];
+      todaysDef = wordArr[idSelected];
+
+      wordSet = new Set(tempArr);
     });
-  return { wordSet, todaysWord };
+  console.log("word: ", todaysWord);
+  // console.log("def: ", todaysDef);
+  // console.log("word array: ", wordArr);
+  // console.log("word set: ", wordSet);
+  return { wordSet, todaysWord, todaysDef };
 };

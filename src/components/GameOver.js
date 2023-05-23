@@ -10,6 +10,7 @@ function GameOver() {
     onSelectLetter,
     correctWord,
     onDelete,
+    correctDef,
   } = useContext(AppContext);
   return (
     <div className="gameOver">
@@ -22,6 +23,7 @@ function GameOver() {
       {gameOver.guessedWord && (
         <h3>You guessed in {currAttempt.attempt} attempts</h3>
       )}
+      <h4>def: {correctDef}</h4>
     </div>
   );
 }

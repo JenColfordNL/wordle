@@ -12,6 +12,7 @@ function App() {
   const [currAttempt, setCurrAttempt] = useState({ attempt: 0, letter: 0 });
   const [wordSet, setWordSet] = useState(new Set());
   const [correctWord, setCorrectWord] = useState("");
+  const [correctDef, setCorrectDef] = useState("");
   const [disabledLetters, setDisabledLetters] = useState([]);
   const [gameOver, setGameOver] = useState({
     gameOver: false,
@@ -22,6 +23,7 @@ function App() {
     generateWordSet().then((words) => {
       setWordSet(words.wordSet);
       setCorrectWord(words.todaysWord);
+      setCorrectDef(words.todaysDef);
     });
   }, []);
 
@@ -37,12 +39,14 @@ function App() {
     } else {
       alert("Word not found");
     }
+    console.log("currWord: ", currWord);
+    console.log("correctWord: ", correctWord);
 
-    if (currWord === correctWord) {
+    if (currWord.toLowerCase() === correctWord.toLowerCase()) {
       setGameOver({ gameOver: true, guessedWord: true });
       return;
     }
-    console.log(currAttempt);
+    console.log("currentAttempt: ", currAttempt);
     if (currAttempt.attempt === 5) {
       setGameOver({ gameOver: true, guessedWord: false });
       return;
@@ -86,6 +90,8 @@ function App() {
           setDisabledLetters,
           disabledLetters,
           gameOver,
+          setCorrectDef,
+          correctDef,
         }}
       >
         <div className="game">

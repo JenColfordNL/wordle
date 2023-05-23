@@ -64,15 +64,15 @@ nav h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#correct {
+.correct {
   background-color: #3bb033;
 }
 
-#almost {
+.almost {
   background-color: #ca80b8;
 }
 
-#error {
+.error {
   background-color: #929098;
 }
 
@@ -119,9 +119,9 @@ nav h1 {
   cursor: pointer;
 }
 
-#big {
+.big {
   width: 100px;
 }
-#disabled {
+.disabled {
   background-color: #3a393c;
 }
