@@ -12,7 +12,6 @@ export const boardDefault = [
 ];
 
 export const generateWordSet = async () => {
-  console.log("Generate wordset call");
   let wordSet;
   let wordArr;
   let todaysWord;
