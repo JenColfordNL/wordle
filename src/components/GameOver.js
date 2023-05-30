@@ -23,7 +23,7 @@ function GameOver() {
       {gameOver.guessedWord && (
         <h3>You guessed in {currAttempt.attempt} attempts</h3>
       )}
-      <h4> {correctDef}</h4>
+      <h2> {correctDef}</h2>
     </div>
   );
 }
