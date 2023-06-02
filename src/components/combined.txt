@@ -39,7 +39,7 @@ every - *every way's likely: Anything can happen, even the unexpected
 edger - A circular saw by which the bark is ripped fom slab-boards
 egger - Person who plunders the nests of sea-birds for the eggs
 elson - *elisinor, elsanor A cap, oftern made of leathe, with ear flaps
-fairy - *fairy-struck mentally of physically harmed by the nafarious fairies who dwelled in the woods
+fairy - *fairy-struck mentally or physically harmed by the nafarious fairies who dwelled in the woods
 figgy - *figgy duff pudding made with raisins and cooked in a bag
 flash - A flexible strip of animal hide at the end of a dog-whip
 fleet - Two or more fishing nets strung together
@@ -63,7 +63,7 @@ hovel - A shed for cattle or pigs; out-house of any kind
 inner - Inshore, nearer the land
 irish - Of Irish desent
 jacky - Long-legs 'a large gnat' 
-janny - Another word for mummers
+janny - Another word for a mummer
 jenny - Female harlequin duck
 junky - Thick, chunky
 kedgy - *ketchie, kedgie A young boy taken on a ship to help with general duties
@@ -166,10 +166,10 @@ torch - *torch night The night before Bonfire Night when it started to get dark 
 towny - A native of St John's, esp a male, usually derisive and contrasting with bay men
 tramp - To walk clumsily, trample
 trout - Fishing for trout
-twack - To look at goods, inquire about prices, but buy nothing
+twack - To look at goods, inquire about prices, but make no purchase
 uncle - Title of an older man, used with first or full name; general term of respect used of an older man in the community
 wabby - A red-throated loon
-watch - One of the groups of men on a sealing vessel organized to hunt seals on the ice-floes
+watch - One of the groups of men on a sealing vessel 
 water - To immerse split and salted cod in water in preparation for drying
 young - Of various species of seal, designating an animal before breeding age
 aback

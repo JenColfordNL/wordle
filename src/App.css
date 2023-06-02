@@ -17,17 +17,33 @@ nav {
   height: 60px;
   width: 100%;
   margin: 0;
-  border-bottom: 1px solid grey;
-  display: grid;
-  place-items: center;
+  border-bottom: 1px solid silver;
+  padding-bottom: 1em;
+  /* display: grid;
+  place-items: center; */
+  /* display: flex;
+  justify-content: space-between; */
 }
 
 nav h1 {
+  display: grid;
+  place-items: center;
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   color: white;
   font-size: 45px;
 }
+button {
+  display: flex;
+  justify-self: flex-end;
+  text-decoration: none;
+  margin: 0;
+}
+/* .howToButton {
+  padding: 2em;
+  box-shadow: #3a393c;
+  min-height: 2em;
+} */
 .game {
   width: 100%;
   height: calc(100% - 170px);
@@ -55,7 +71,7 @@ nav h1 {
 .letter {
   flex: 33%;
   height: 100%;
-  border: 1px solid grey;
+  border: 1px solid silver;
   margin: 5px;
   display: grid;
   place-items: center;
@@ -128,4 +144,6 @@ nav h1 {
 }
 .gameOver {
   font-family: Helvetica, Arial, sans-serif;
+}
+@media screen {
 }

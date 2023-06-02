@@ -1,8 +1,6 @@
 import React, { useContext } from "react";
 import { AppContext } from "../App";
 
-// id={bigKey ? "big" : disabled && "disabled"}
-
 function Key({ keyVal, bigKey, disabled }) {
   const { gameOver, onSelectLetter, onDelete, onEnter } =
     useContext(AppContext);
