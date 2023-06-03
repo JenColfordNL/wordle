@@ -16,7 +16,7 @@ export const generateWordSet = async () => {
   let wordArr;
   let todaysWord;
   let todaysDef;
-  let nlWordleCount = 174;
+  let nlWordleCount = 5;
 
   await fetch(wordBank)
     .then((response) => response.text())
