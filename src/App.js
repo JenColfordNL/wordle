@@ -5,6 +5,7 @@ import { boardDefault, generateWordSet } from "./components/Words";
 import React, { useState, createContext, useEffect } from "react";
 import GameOver from "./components/GameOver";
 import HowToButton from "./components/HowToButton";
+// import SuggestedWord from "./components/SuggestedWord";
 
 export const AppContext = createContext();
 
@@ -78,6 +79,7 @@ function App() {
       <nav>
         <HowToButton />
         <h1>Newfoundlandle</h1>
+        {/* <SuggestedWord /> */}
       </nav>
       <AppContext.Provider
         value={{

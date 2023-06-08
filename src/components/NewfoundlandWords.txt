@@ -27,7 +27,7 @@ coach - *coach box A box for a passenger on a komatik
 coast - *costal fishery Cod fishery carried out in coastal waters
 dally - Sudden lull or  slackeng of wind or a shift in the wind's direction
 dandy - *dandy longlegs , daddy longlegs Very large flying insect that arrvied near summer's end. Also used as a name to call tall people
-darts - Another word for cigarette. Also a quick visit or sudden movement
+darts - Another word for cigarettes. Also a quick visit or sudden movement
 dicky - A wollen bib worn by children
 dirty - Resentful
 dishy - *dishy looking A person looking pale or sickly in complexion
@@ -142,6 +142,7 @@ soddy - Beneath proper size
 sooky - Whining, petulant; jealous
 souse - To go plunging in water
 split - A thin piece of wood, about twelve to fourteen inches (30-36 cm) long, used chiefly as kindling
+spicy - Attractive and slightly naughty
 squat - To crush, bruise; squeeze; flatten
 squid - To fish with or for squid
 steam - To immerse (a plank, rail or timber) in steam in order to bend it into a desired curve or shape
@@ -169,6 +170,7 @@ uncle - Title of an older man, used with first or full name; general term of res
 wabby - A red-throated loon
 watch - One of the groups of men on a sealing vessel 
 water - To immerse split and salted cod in water in preparation for drying
+watch - One of the groups of men on a sealing vessel 
 young - Of various species of seal, designating an animal before breeding age
 aback
 abase
