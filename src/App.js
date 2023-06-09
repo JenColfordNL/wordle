@@ -80,6 +80,10 @@ function App() {
         <HowToButton />
         <h1>Newfoundlandle</h1>
         {/* <SuggestedWord /> */}
+        <h4>
+          Know a 5-letter Newfoundland word? Send it to:
+          Newfoundlandle@gmail.com
+        </h4>
       </nav>
       <AppContext.Provider
         value={{

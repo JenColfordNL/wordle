@@ -33,6 +33,9 @@ nav h1 {
   color: white;
   font-size: 45px;
 }
+h4 {
+  font-family: Helvetics, Arial, Helvetica, sans-serif;
+}
 button {
   display: flex;
   justify-self: flex-end;
