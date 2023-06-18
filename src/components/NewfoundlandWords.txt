@@ -176,7 +176,3 @@ watch - One of the groups of men on a sealing vessel
 water - To immerse split and salted cod in water in preparation for drying
 watch - One of the groups of men on a sealing vessel 
 young - Of various species of seal, designating an animal before breeding age
-aback
-abase
-abate
-abbey
