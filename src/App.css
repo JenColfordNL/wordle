@@ -32,15 +32,22 @@ nav h1 {
   font-family: Helvetica, Arial, sans-serif;
   color: white;
   font-size: 25px;
+  padding-bottom: 0.15rem;
 }
-h4 {
+h3 {
   font-family: Helvetics, Arial, Helvetica, sans-serif;
   padding-bottom: 0.2rem;
 }
+/* h5 {
+  display: flex;
+  justify-content: flex-end;
+  /* align-items: flex-start; */
+/* } */
 button {
   display: flex;
   justify-self: flex-end;
   text-decoration: none;
+  font-size: larger;
   margin: 0;
 }
 /* .howToButton {

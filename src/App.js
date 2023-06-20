@@ -77,13 +77,14 @@ function App() {
   return (
     <div className="App">
       <nav>
+        {/* <h5>This is my porfilio!</h5> */}
         <HowToButton />
         <h1>Newfoundlandle</h1>
-        {/* <SuggestedWord /> */}
-        <h4>
+
+        <h3>
           Know a 5-letter Newfoundland word? Send it to:
           Newfoundlandle@gmail.com
-        </h4>
+        </h3>
       </nav>
       <AppContext.Provider
         value={{
