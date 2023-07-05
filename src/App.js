@@ -81,10 +81,7 @@ function App() {
         <HowToButton />
         <h1>Newfoundlandle</h1>
 
-        <h3>
-          Know a 5-letter Newfoundland word? Send it to:
-          Newfoundlandle@gmail.com
-        </h3>
+        <h3>Know a 5-letter NL word? Send it to: Newfoundlandle@gmail.com</h3>
       </nav>
       <AppContext.Provider
         value={{
@@ -107,6 +104,12 @@ function App() {
           <Board />
           {gameOver.gameOver ? <GameOver /> : <Keyboard />}
         </div>
+        <footer>
+          <h2 id="portfolio">
+            Newfoundlandle is my portfolio! Message me at:
+            Newfoundlandle@gmail.com
+          </h2>
+        </footer>
       </AppContext.Provider>
     </div>
   );
