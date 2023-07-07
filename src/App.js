@@ -105,10 +105,10 @@ function App() {
           {gameOver.gameOver ? <GameOver /> : <Keyboard />}
         </div>
         <footer>
-          <h2 id="portfolio">
+          <h4 id="portfolio">
             Newfoundlandle is my portfolio! Message me at:
             Newfoundlandle@gmail.com
-          </h2>
+          </h4>
         </footer>
       </AppContext.Provider>
     </div>
