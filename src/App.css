@@ -38,11 +38,7 @@ h3 {
   font-family: Helvetica, Arial, Helvetica, sans-serif;
   padding-bottom: 0.2rem;
 }
-/* h5 {
-  display: flex;
-  justify-content: flex-end;
-  /* align-items: flex-start; */
-/* } */
+
 button {
   display: flex;
   justify-self: flex-end;
@@ -50,14 +46,10 @@ button {
   font-size: larger;
   margin: 0;
 }
-/* .howToButton {
-  padding: 2em;
-  box-shadow: #3a393c;
-  min-height: 2em;
-} */
+
 .game {
   width: 100%;
-  /* height: calc(100% - 170px); */
+  height: calc(100% - 170px);
   display: flex;
   align-items: center;
   padding-top: 79px;
