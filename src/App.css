@@ -152,18 +152,6 @@ button {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-/* @media screen and (min-width: 480px) {
-  h4 {
-    margin-bottom: 10em;
-  }
-  .keyboard {
-    display: flex;
-    flex-direction: column;
-    width: 500px;
-    height: 300px;
-    margin-top: 60px;
-    /* background-color: #3bb033; */
-/* } */
 @media screen and (min-width: 481px) {
   nav {
     height: 60px;
