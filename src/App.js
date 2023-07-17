@@ -108,13 +108,13 @@ function App() {
         <div className="game">
           <Board />
           {gameOver.gameOver ? <GameOver /> : <Keyboard />}
+          <footer>
+            <h4 id="portfolio">
+              Know a 5-letter Newfoundland word or looking to connect? Message
+              me at: Newfoundlandle@gmail.com
+            </h4>
+          </footer>
         </div>
-        <footer>
-          <h4 id="portfolio">
-            Know a 5-letter Newfoundland word or looking to connect? Message me
-            at: Newfoundlandle@gmail.com
-          </h4>
-        </footer>
       </AppContext.Provider>
     </div>
   );
