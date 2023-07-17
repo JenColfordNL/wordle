@@ -111,8 +111,8 @@ function App() {
         </div>
         <footer>
           <h4 id="portfolio">
-            Newfoundlandle is my portfolio! Message me at:
-            Newfoundlandle@gmail.com
+            Know a 5-letter Newfoundland word or looking to connect? Message me
+            at: Newfoundlandle@gmail.com
           </h4>
         </footer>
       </AppContext.Provider>
