@@ -1,3 +1,4 @@
+arsed - Bothered; "I counldn't be arsed to do that right now!"
 barge - A large boat serving as an ancillary craft in the fishery from schooners; "Tie her up at the barge!"
 batch - A qauntity of anything coming at a time; "I've got a fresh batch of bread on the way!"
 beach - A level stretch of sea-worn rocks along the foreshore that was convient to use for drying and salting fish; "Go and dry those filets up on the beach!"
@@ -15,12 +16,12 @@ capon - *caplin, capelan, capellin, caplain A small irrescent deep-water fish wh
 catch - Number of fish caugt; "How was the catch tody Skipper?"
 chain - *chaining off a fishing operation connected with fishing in the ice on boats without hydraulic ice davits; "Chain off that warp!"
 chair - *chair box Kitchen chair made out of a box or barrel; "Youngins sit on the chair boxes, save the proper chairs for Nan!"
-charm - To cure an aliment by para-medical means; "Misses up the road will make you a poltice charm that will cure what ails ya."
+charm - To cure an aliment by para-medical means; "Misses up the road will make you a charm that will cure whatever ails ya."
 cheek - Fleshy part of a cod's head; "There's nothing better than a feed of cod cheeks!"
 chovy - *choby, copy, chuffy, shovy Pices of kindling wood shaved with a knife so the wood curls at the sides; "Shave off a bit of chovy so we can get the fire started."
 chook - *chooky, chuck, chucky A call to pigs; "Chook, chook, chook....here's yer dinner!"
 chaff - Bits of wood shavings and chips useful for starting fires; "make sure you use a fair bit of chaff since the wood is a tad damp."
-civil - Calmer weather; "It's about time we had a bit of civil weather (usually not spoken until late June)."
+
 clean - In logging, to fell the trees in a given cutting area; "This whole area is getting cleaned so we can build the cabin here."
 cloth - cloth pudding: pudding made of flour and water, sometimes with raisins added, boiled in a cloth bag: duff; "I need a cloth bag for my figgy duff."
 coach - *coach box A box for a passenger on a komatik; "She looks some comfy on the coach!"
@@ -51,10 +52,10 @@ gaffs - To pull a fish from the water with a hook fastened to a short stick; "He
 glean - To laugh covertly; "We all glean when he says 'supurlative' instead of 'perogative'."
 grand - *grand bank(s) A large area of shoal water southeast of Newfoundland forming a rich fishing-ground; "The grand banks have some of the world's greatest cod stocks."
 grass - Mature hay ready to be dried for fodder; "We keeps the best fooder for the horses."
-growl - A game of cards, sometimes known as 120; "She loves going 30 for 60 on nothing in a game of growl!"
+growl - A game of cards, sometimes known as 120; "She loves going 30 for 60 on nothing when she's playing growl!"
 gully - A small pond or series of linked ponds forming the head waters of a stream, or adjacent to a larger body of water; "I like to drop a line in the gully just past the main pond."
 habit - Headress worn by Catholic nuns; "Sister Mary's habit is always perfect."
-handy - Near by; close; "Don't go handy to those geese...they're some saucy!"
+
 heart - The instep of a boot or shoe; "The heart is flexible so it'll be a better fit for your wide feet."
 hoble - A job outside of one's usual work hours usually paid for using cash; "I got a hoble this weekend installing a hot water boiler for my Aunt."
 hooky - Liable to snag or hook (an object); "Mind your sweater on that wall, she's all fulls of hooky splinters."
@@ -128,7 +129,7 @@ scoop - A flat-bottomed wooden container with short handle used to bail water fr
 scoot - A small vehicle used by children for sliding on snow
 scout - Children's chasing game
 scram - *scrawn, scran Scram-bag: canvas bag in which fisherman carries his day's food
-scrap - A fight; "If he doesn't stop flirting with my misses, there's going to be a scrap
+scrap - A fight; "If he doesn't stop flirting with my misses, there's going to be a scrap!"
 scrob - A scratch in one's flesh
 shits - Unacceptable or undesirable; "This room is the shits!"
 shack - In lumbering operations, to live in a small, roughly made dwelling; to cook and care for oneself in the 'lumber woods' or in a cheap dwelling
@@ -142,7 +143,7 @@ shuck - To slip down in the water
 sieve - *cive, scyve A variety of small onion or onion-sprout
 skate - To throw flat stones over the surface of water
 snare - A wire device used for catching rabbit
-soddy - Beneath proper size
+soddy - Beneath proper size; "Those lobster are some soddy...won't get much for them"
 sooky - Whining, petulant; jealous
 souse - To go plunging in water
 split - A thin piece of wood, about twelve to fourteen inches (30-36 cm) long, used chiefly as kindling
@@ -159,6 +160,7 @@ taker - In the game of marbles, a marble or ally pitched so close to that of an 
 tally - In keeping account of the number of seal pelts, dried cod, etc, being handled, the last of a sequence of numbers, esp five, forming a single group
 tansy - The leaves of the common yarrow, an infusion of which is used in home-remedies and cooking
 tatie - *tatey, teddy, tetty, tiddy, titty Potato
+twack - To look at goods, inquire about prices, but make no purchase; "Come on we goes out twacking this morning."
 thawt - To lay (a thing) athwart or across
 thick - Of the weather, with restricted visibility; dense with fog, mist, rain or snow
 theif - Newfoundland grey jay
