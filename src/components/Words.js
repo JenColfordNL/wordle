@@ -29,7 +29,6 @@ export const generateWordSet = async () => {
 
       wordSet = new Set(tempArr);
     });
-  console.log("word: ", todaysWord);
 
   return { wordSet, todaysWord, todaysDef };
 };

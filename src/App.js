@@ -41,14 +41,12 @@ function App() {
     } else {
       alert("Word not found");
     }
-    // ("currconsole.logWord: ", currWord);
-    // console.log("correctWord: ", correctWord);
 
     if (currWord.toLowerCase() === correctWord.toLowerCase()) {
       setGameOver({ gameOver: true, guessedWord: true });
       return;
     }
-    // console.log("currentAttempt: ", currAttempt);
+
     if (currAttempt.attempt === 5) {
       setGameOver({ gameOver: true, guessedWord: false });
       return;
