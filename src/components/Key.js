@@ -20,7 +20,6 @@ function Key({ keyVal, bigKey, disabled }) {
       className={`key ${bigKey && "big"} ${disabled && "disabled"}`}
       onClick={selectLetter}
     >
-      {/* {keyVal} */}
       {keyVal !== "DELETE" && keyVal}
       {keyVal === "DELETE" && (
         <div>
