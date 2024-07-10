@@ -25,16 +25,7 @@ export default function HowToButton() {
           </svg>
         </button>
       </div>
-      {/* <button
-        style={{
-          backgroundColor: "black",
-          color: "white",
-          align: "center",
-        }}
-        onClick={handleClick}
-      >
-        How to Play
-      </button> */}
+      
     </div>
   );
 }
